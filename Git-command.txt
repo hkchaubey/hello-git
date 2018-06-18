@@ -1,0 +1,20 @@
+Git-command
+
+1- git config --global
+"use for configration"
+
+2- git init 
+"use for  new initialization"
+
+3- git status
+"use for check sttus"
+
+4- git add .  & git add file name
+" use for add new file in old repository "
+
+5- git commit 
+"use for commit  file in github"
+
+6- git push
+"use for push file in github"
+
